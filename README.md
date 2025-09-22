@@ -26,7 +26,7 @@
 
 Пример работы бьютифаера:
 
-![image](https://raw.githubusercontent.com/German-D/tg_json/main/static/beautifaer.png)
+![image](https://raw.githubusercontent.com/Marina353/-----JSON/refs/heads/main/ТГ-бот3.png)
 
 
 ## 💻 Технологии
