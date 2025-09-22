@@ -18,7 +18,7 @@
 
 Стартовое меню:
 
-![image](https://raw.githubusercontent.com/German-D/tg_json/main/static/menu.png)
+![image](https://raw.githubusercontent.com/Marina353/-----JSON/refs/heads/main/ТГ-бот.png)
 
 После отправки JSON c ошибкой:
 
