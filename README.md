@@ -22,7 +22,7 @@
 
 После отправки JSON c ошибкой:
 
-![image](https://raw.githubusercontent.com/German-D/tg_json/main/static/syntax.png)
+![image](https://raw.githubusercontent.com/Marina353/-----JSON/refs/heads/main/ТГ-бот2.png)
 
 Пример работы бьютифаера:
 
